@@ -4,7 +4,7 @@
 
 | Puzzles                                                                                                | State                                    | Languages    | Completed | Updated    |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ------------ |:----------| ---------- |
-| [EASY](https://leetcode.com/problemset/all/?page=1&difficulty=EASY)                                    | ![Progress](https://progress-bar.dev/0)  | C#           | 002       | 13.11.2023 |
+| [EASY](https://leetcode.com/problemset/all/?page=1&difficulty=EASY)                                    | ![Progress](https://progress-bar.dev/0)  | C#           | 003       | 13.11.2023 |
 | [MEDIUM](https://leetcode.com/problemset/all/?page=1&difficulty=MEDIUM)                                | ![Progress](https://progress-bar.dev/0)  | C#           | 000       |            |
 | [HARD](https://leetcode.com/problemset/all/?page=1&difficulty=HARD)                                    | ![Progress](https://progress-bar.dev/0)  | C#           | 000       |            |
 
