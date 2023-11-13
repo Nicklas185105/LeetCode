@@ -22,11 +22,5 @@ public class Solution {
 			}
 		}
 		return true;
-
-		var s1 = new string(s.ToCharArray().OrderBy(c => c));
-		var s2 = new string(t.ToCharArray().OrderBy(c => c));
-		Console.WriteLine(s1);
-		Console.WriteLine(s2);
-		return s1.Equals(s2);
     }
 }
