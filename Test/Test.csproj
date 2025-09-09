@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Easy\1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj" />
+    <ProjectReference Include="..\Easy\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj" />
+    <ProjectReference Include="..\Easy\217. Contains Duplicate\0217. Contains Duplicate.csproj" />
+    <ProjectReference Include="..\Easy\242. Valid Anagram\0242. Valid Anagram.csproj" />
+    <ProjectReference Include="..\Easy\26. Remove Duplicates from Sorted Array\0026. Remove Duplicates from Sorted Array.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="NUnit.Framework" />
+  </ItemGroup>
+
+</Project>
