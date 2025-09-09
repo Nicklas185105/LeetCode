@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\1. Two Sum\0001. Two Sum.csproj" />
+    <ProjectReference Include="..\Easy\1. Two Sum\0001. Two Sum.csproj" />
     <ProjectReference Include="..\Easy\1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj" />
     <ProjectReference Include="..\Easy\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj" />
     <ProjectReference Include="..\Easy\217. Contains Duplicate\0217. Contains Duplicate.csproj" />
